@@ -10,7 +10,7 @@ import Rainy from './svg/Rainy'
 import RainyWind from './svg/RainyWind'
 import Snowy from './svg/Snowy'
 import Stormy from './svg/Stormy'
-import StromyWind from './svg/StromyWind'
+import StormyWind from './svg/StormyWind'
 import Sunny from './svg/Sunny'
 import SunnyCloud from './svg/SunnyCloud'
 import Thunderstorm from './svg/Thunderstorm'
@@ -29,7 +29,7 @@ export default class Svg extends Component {
                 <RainyWind width={50} height={50} />
                 <Snowy width={50} height={50} />
                 <Stormy width={50} height={50} />
-                <StromyWind width={50} height={50} />
+                <StormyWind width={50} height={50} />
                 <Sunny width={50} height={50} />
                 <SunnyCloud width={50} height={50} />
                 <Thunderstorm width={50} height={50} />
